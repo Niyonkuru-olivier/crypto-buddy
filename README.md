@@ -23,6 +23,5 @@ Welcome to **CryptoBuddy**, a beginner-friendly, rule-based chatbot that helps u
 
 ## 📄 How to Run
 1. Clone this repo:
-   ```bash
    git clone https://github.com/yourusername/crypto-buddy.git
-   cd crypto
+   Run python crypto_advisor_bot.py
