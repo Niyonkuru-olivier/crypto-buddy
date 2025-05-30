@@ -18,7 +18,7 @@ Welcome to **CryptoBuddy**, a beginner-friendly, rule-based chatbot that helps u
 
 ## 🛠️ Tech Stack
 - **Language**: Python
-- **Platform**: Jupyter Notebook / Google Colab / Any IDE
+- **Platform**: Jupyter Notebook
 - **Data**: Hardcoded sample dataset (can be replaced with real-time data via APIs)
 
 ## 📄 How to Run
